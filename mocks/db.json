@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "lastname": "Doe",
+      "email": "john.doe@mail.com",
+      "role": "Verificador",
+      "password": "clave15",
+      "phone": "994685695"
+    }
+  ]
+}
